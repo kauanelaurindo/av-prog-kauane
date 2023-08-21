@@ -1,8 +1,8 @@
 
 :root{
-    --cor-de-fundo:#b6dec1 ;
+    --cor-de-fundo: #9a151a;
     --branco-principal:#1d1016 ;
-    --fundo-degrade: #b6dec1 ;
+    --fundo-degrade: #9a151a ;
 }
 
 header{
@@ -25,7 +25,7 @@ header{
 }
 
 .tema{
-    background:#b6dec1 ;
+    background: #9a151a;
     display: inline-flex;    
 }
 
